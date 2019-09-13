@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahpeineiga.moilioncircle.com/sitemap.xml
